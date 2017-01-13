@@ -34,7 +34,6 @@
 		37AEBC841D2E468F002FF5E8 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		37AEBC851D2E468F002FF5E8 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		37AEBC871D2E468F002FF5E8 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		37AEBC8E1D2E468F002FF5E8 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		37AEBCA61D2E4786002FF5E8 /* IOHIDDisplay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IOHIDDisplay.h; sourceTree = "<group>"; };
 		37AEBCA71D2E4786002FF5E8 /* IOHIDEvent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IOHIDEvent.h; sourceTree = "<group>"; };
 		37AEBCA81D2E4786002FF5E8 /* IOHIDEventData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IOHIDEventData.h; sourceTree = "<group>"; };
@@ -103,7 +102,6 @@
 				37AEBC6F1D2E468F002FF5E8 /* Foundation.framework */,
 				37AEBC711D2E468F002FF5E8 /* CoreGraphics.framework */,
 				37AEBC731D2E468F002FF5E8 /* UIKit.framework */,
-				37AEBC8E1D2E468F002FF5E8 /* XCTest.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
